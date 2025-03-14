@@ -20,7 +20,7 @@
     "forever": "^3.0.0",
     "http-proxy": "^1.18.1",
     "nanoid": "^3.1.10",
-    "portfinder": "^1.0.26"
+    "portfinder": "^1.0.34"
   },
   "devDependencies": {
     "autocannon": "^5.0.1"
